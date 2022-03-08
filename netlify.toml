@@ -3,6 +3,6 @@
   command = "hugo --gc --themesDir ./themes"
   
 [build.environment]
-  HUGO_VERSION = "0.73.0"
-  HUGO_THEME = "repo"
+  HUGO_VERSION = "0.87.0"
+  HUGO_THEME = "restaurant-hugo"
   HUGO_BASEURL = "/"
