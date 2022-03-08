@@ -1,11 +1,11 @@
 ---
 hero_area:
-  enable: true
+  enable: false
   bg_image: images/header.jpg
   overlay: false
 gallery:
   enable: true
-  title: FEATURED WORKS
+  title: Últimos trabalhos
   images:
   - images/slider/slider-img-1.jpg
   - images/slider/slider-img-2.jpg
@@ -18,7 +18,7 @@ gallery:
 about:
   enable: true
   image: images/cooker-img.png
-  title: Featured Your <span> Restaurant’s</span> Website Has To Look Good
+  title: Olá, você já conhece nosso trabalho?
   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
     tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
     nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
@@ -26,16 +26,16 @@ about:
     eu fugiat nulla pariatur. Excepteur sint occaecat Ut enim ad minim veniam
 blog:
   enable: true
-  title: Our Latest <span>Blog</span>
+  title: Conheça o nosso trabalho
   bg_image: images/blog/blog-bg.jpg
   overlay: true
 pricing:
   enable: true
-  title: Our Easy <span>PRICE</span>
+  title: Nossos serviços
   description: " Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
     tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
     nostrud exercitation ullamco"
-  subtitle: FEATURED ON THE WEEK
+  subtitle: O que está disponível nessa semana?
   pricing_item:
   - title: Pancakes n' Such Titas
     description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
@@ -60,13 +60,13 @@ pricing:
 subscription:
   enable: true
   bg_image: images/subscribe-bg.jpg
-  title: SUBSCRIBE to our <span>NEWSLETTER</span>
+  title: Fique por dento do que acontece com o DChef
   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
   form_action: https://themefisher.us9.list-manage.com/subscribe/post?u=f95ece2732a6e9925f2e70a61&amp;id=b1e227529e
   formName: b_f95ece2732a6e9925f2e70a61_b1e227529e
   overlay: true
 contact:
   enable: true
-  title: Let's <span> Contact Us </span>
-  subtitle: SIGN UP FOR EMAIL ALERTS
+  title: Entre em contato conosco :)
+  subtitle: Inscreva-se para receber nossas atualizações!
   form_action: "#"
