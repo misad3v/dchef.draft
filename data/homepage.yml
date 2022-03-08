@@ -1,8 +1,8 @@
 ---
 hero_area:
-  enable: false
+  enable: true
   bg_image: images/header.jpg
-  overlay: false
+  overlay: true
 gallery:
   enable: true
   title: Últimos trabalhos
