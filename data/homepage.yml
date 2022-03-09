@@ -7,6 +7,7 @@ gallery:
   enable: true
   title: Últimos trabalhos
   images:
+  - images/logo_principal.jpg
   - images/slider/slider-img-1.jpg
   - images/slider/slider-img-2.jpg
   - images/slider/slider-img-3.jpg
