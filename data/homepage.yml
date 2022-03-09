@@ -19,11 +19,9 @@ about:
   enable: true
   image: images/cooker-img.png
   title: Olá, você já conhece nosso trabalho?
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    Duis aute irure dolor in reprehenderit in </br>voluptate velit esse cillum dolore
-    eu fugiat nulla pariatur. Excepteur sint occaecat Ut enim ad minim veniam
+  description: É obrigatório usar máscara de proteção · É feita uma medição de temperatura
+    · A equipe usa máscaras de proteção · A equipe passa por uma medição de temperatura
+    · Desinfecção das superfícies entre um cliente
 blog:
   enable: true
   title: Conheça o nosso trabalho
